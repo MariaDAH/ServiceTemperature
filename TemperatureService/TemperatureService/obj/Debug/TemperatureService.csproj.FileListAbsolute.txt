@@ -1,0 +1,6 @@
+c:\users\mixid\documents\visual studio 2015\Projects\TemperatureService\TemperatureService\bin\Debug\TemperatureService.exe.config
+c:\users\mixid\documents\visual studio 2015\Projects\TemperatureService\TemperatureService\bin\Debug\TemperatureService.exe
+c:\users\mixid\documents\visual studio 2015\Projects\TemperatureService\TemperatureService\bin\Debug\TemperatureService.pdb
+c:\users\mixid\documents\visual studio 2015\Projects\TemperatureService\TemperatureService\obj\Debug\TemperatureService.csprojResolveAssemblyReference.cache
+c:\users\mixid\documents\visual studio 2015\Projects\TemperatureService\TemperatureService\obj\Debug\TemperatureService.exe
+c:\users\mixid\documents\visual studio 2015\Projects\TemperatureService\TemperatureService\obj\Debug\TemperatureService.pdb
